@@ -1,6 +1,6 @@
 # Interacción Humano-Robot (Máster en Robótica e Inteligencia Artificial)
 
-## Laboratorio 02 (semana 13/05/2024)
+## Laboratorio 02 (semana 29/04/2025)
 
 ## Objetivos
 
@@ -14,8 +14,9 @@
 ## Requisitos
 
 - [ROS 2 Humble](https://docs.ros.org/en/humble/Installation.html)
-- [Nav2](https://navigation.ros.org/)
-- [Simulador RB1](https://github.com/igonzf/ros2_rb1)
+- [Nav2](https://docs.nav2.org/getting_started/index.html#installation)
+- [Gazebo](https://gazebosim.org/docs/latest/ros_installation/)
+- [Simulador RB1 (branch main)](https://github.com/igonzf/ros2_rb1)
 - [TensorFlow v2.16.1](https://www.tensorflow.org/install?hl=es-419)
 - [PeTra (People Tracking)](https://github.com/ClaudiaAlvarezAparicio/petra/tree/ros2)
 
@@ -71,3 +72,5 @@ Los pasos a seguir para llevarlo a cabo son los siguientes:
 
 - Utiliza el simulador de RB1 para simular el movimiento de una persona (puedes mover el actor a otro punto más alejado del robot pero que sea perceptible por el láser) y verifica que el robot pueda acercarse correctamente.
 - Ajusta los parámetros de seguimiento para garantizar una interacción social adecuada, teniendo en cuenta la distancia a la que las personas se sienten cómodas.
+
+Sube un video demostrando que la práctica funciona correctamente.
